@@ -1,0 +1,3 @@
+/home/tholmquist/Downloads/OS_ch39_hw/cmake-build-debug/CMakeFiles/OS_ch39_hw.dir
+/home/tholmquist/Downloads/OS_ch39_hw/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/tholmquist/Downloads/OS_ch39_hw/cmake-build-debug/CMakeFiles/rebuild_cache.dir
